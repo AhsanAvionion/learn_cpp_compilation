@@ -1,0 +1,3 @@
+If object files are already exist then make command will only generate output file and skip the steps that is involved in generating that (already existed) object files
+
+commands written before : (i.e clean :) are callable alone appending command word after make command (i.e make clean) this will only run clean function in Makefile
